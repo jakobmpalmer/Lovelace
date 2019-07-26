@@ -1,15 +1,9 @@
-def far2cel(tempFar):
-    tempCel = (5/9) * (tempFar - 32)
+def fahrenheit_to_celsius(tempFahr):
+    tempCel = (5/9) * (tempFahr - 32)
     print("Temperature is " + str(tempCel) + " Celcius")
+    return tempCel
 
-far2cel(77.9)
-far2cel(32)
+fahrenheit_to_celsius(77.9)
+fahrenheit_to_celsius(32)
 
-
-
-def light_time(distance):
-    time = distance / 299792458
-    print("It will take " + str(time) + " To go " + str(distance) + "in space")
-
-light_time(376291900)
-light_time(299792458)
+fahrenheit_to_celsius(86.23452293505377,)
