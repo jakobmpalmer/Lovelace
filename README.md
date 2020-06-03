@@ -5,8 +5,8 @@ Each respective project touches on a different aspect of mathematics, physics, l
 solving it as simply as possible, and later return to create a gui component as well as optimizing the code. 
 
 Thus far I have completed:
-✅ Speed of Light
-✅ NAND Gate
+✅ Speed of Light \n
+✅ NAND Gate "\n"
 ✅ Molecular Mass Calculator
 ✅ Scientific Temperatures
 ✅ Wind Chill
